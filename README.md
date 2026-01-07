@@ -2,7 +2,7 @@ Here is the updated **README.md** with the expanded project structure, providing
 
 ---
 
-# Veterinary Voice-AI System
+# Vet Voice-AI System
 
 ### Production-grade voice-first conversational AI veterinary assistant
 
